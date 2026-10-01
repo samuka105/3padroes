@@ -1,4 +1,4 @@
-# Padrão Abstract Factory
+# Padrão Abstract Factory junto de Factory e Singleton
 
 Exemplo que combina três padrões criacionais — **Abstract Factory**, **Factory Method**
 e **Singleton** — em um cadastro de documentos por tipo de cliente (Pessoa Física e
